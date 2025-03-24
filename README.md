@@ -1,2 +1,4 @@
 # My first repo  
-- Author: Cho
+## Date: 2025.03.24 16:30  
+- Author: Cho  
+
