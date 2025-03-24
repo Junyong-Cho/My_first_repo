@@ -1,4 +1,6 @@
 # My first repo  
-## Date: 2025.03.24 16:30  
+- Date: 2025.03.24 16:30  
 - Author: Cho  
-
+- Classroom: 다향관  
+- Contents
+    - Git Basic  
