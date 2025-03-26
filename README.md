@@ -6,4 +6,5 @@
     - Git Basic  
 # ossprac  
 fetch & merge  
-A
+A  
+B  
