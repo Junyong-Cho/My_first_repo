@@ -1,4 +1,5 @@
-a = input("input name")
-b = input("input no")
+name = input("input name")
+no = input("input no")
 
-print("name", a,"\nino",b)
+
+print("name", name,"\nino",no)
