@@ -1,5 +1,4 @@
-print('hello my world')
-print('hello world')
-print('this is A')
-print('this is b')
-print('this is new')
+a = input("input name")
+b = input("input no")
+
+print("name", a,"\nino",b)
